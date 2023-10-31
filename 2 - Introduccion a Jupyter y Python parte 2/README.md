@@ -7,5 +7,5 @@
     - El Ecosistema de Ciencia de Datos para Python
     - Estructura de Jupyter Notebook
 * 2da Parte de la Introduccion a Python
-    * Listas
+    * Listas 
     * For y While Loops
