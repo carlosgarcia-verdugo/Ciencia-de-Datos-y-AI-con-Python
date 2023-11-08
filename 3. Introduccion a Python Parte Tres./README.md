@@ -4,6 +4,6 @@
 ## Temas
 
 * 3da Parte de la Introduccion a Python
-    * Funciones
-    * Metodos
-    * Files
+    * Funciones.
+    * Metodos.
+    * Files.
