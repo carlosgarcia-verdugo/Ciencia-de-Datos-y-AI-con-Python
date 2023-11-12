@@ -3,8 +3,7 @@
 
 ## Temas
 
-* 3da Parte de la Introduccion a Python
-    * Funciones
-    * Metodos
-    * Files
+* Archivos
+* Introduccion a Pandas
+
 
