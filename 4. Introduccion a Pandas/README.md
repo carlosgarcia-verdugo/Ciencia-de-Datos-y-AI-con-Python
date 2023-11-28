@@ -3,7 +3,7 @@
 
 ## Temas
 
-* Archivos
-* Introduccion a Pandas
+* Archivos.
+* Introduccion a Pandas.
 
 
